@@ -37,8 +37,8 @@ http://127.0.0.1:8000/docs#/ [EM BREVE ESTARÁ EM DEPLOY]
 #### 1. Clone o repositório
 No terminal, execute os comandos:
 ```bash
-git clone ## 
-cd ##
+git clone https://github.com/barbaracmps/fiap-tcf1-mlops.git
+cd fiap-tcf1-mlops
 ```
 
 #### 2. Instale e inicialize o uv
